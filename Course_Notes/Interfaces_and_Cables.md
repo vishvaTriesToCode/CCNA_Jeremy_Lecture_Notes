@@ -3,6 +3,8 @@
 SWITCHES provide many PORTS for connectivity (usually 24)
 
 These PORTS tend to be RJ-45 (Registered Jack) ports.
+!!!Note- Ethernet ports are NOT RJ-45 ports. This is a misnomer
+For more info, refer - https://www.arrow.com/en/research-and-events/articles/rj45-connectors
 
 ---
 
